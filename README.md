@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pgroves95
+- 👋 Hi, I’m @pgroves95 
 - 👀 I’m interested in rapid deployment, agile, and react.js, and node.js
 - 🌱 I’m currently learning a full stack through Digital Crafts boot camp
 - 💞️ I’m looking to collaborate on apps that help people connect and develop autonomy in their worlds.
-- 📫 How to reach me pgroves95@gmail.com
+- 📫 How to reach me pgroves95@gmail.com | https://www.digitalfryingpan.com/
 
 <!---
 pgroves95/pgroves95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
