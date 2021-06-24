@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @pgroves95 
-- 👀 I’m interested in rapid deployment, agile, react.js, and node.js
-- 🌱 I’m currently learning the PERN stack through Digital Crafts boot camp
-- ✨ I'm actively seeking fullstack, frontend, or backend positions!
+## 👋 Hi, I’m Patrick Groves! 
+- 👀 Interested in rapid deployment, agile, react.js, and node.js
+- 🌱 Learned the PERN stack at DigitalCrafts boot camp
+- ✨ Actively seeking fullstack, frontend, or backend positions!
 - 📫 How to reach me patrickalexgroves@gmail.com
 - __Resumé and portfolio:  https://www.digitalfryingpan.com/
 - __Top Project Repos: https://github.com/pgroves95/park-rangers-trip-app | https://github.com/pgroves95/parking-pals
