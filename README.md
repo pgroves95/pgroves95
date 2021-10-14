@@ -3,7 +3,6 @@
 - 🌱 Learned the PERN stack at DigitalCrafts boot camp
 - ✨ Actively seeking fullstack, frontend, or backend positions!
 - 📫 How to reach me patrickalexgroves@gmail.com
-- __Resumé and portfolio:  https://www.digitalfryingpan.com/
 - __Top Project Repos: https://github.com/pgroves95/park-rangers-trip-app | https://github.com/pgroves95/parking-pals
 
 <!---
