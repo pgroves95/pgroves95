@@ -1,9 +1,7 @@
 ## 👋 Hi, I’m Patrick Groves! 
-- 👀 Interested in rapid deployment, agile, react.js, and node.js
+- 👀 Fullstack/Backend Developer
 - 🌱 Learned the PERN stack at DigitalCrafts boot camp
-- ✨ Actively seeking fullstack, frontend, or backend positions!
-- 📫 How to reach me patrickalexgroves@gmail.com
-- __Top Project Repos: https://github.com/pgroves95/park-rangers-trip-app | https://github.com/pgroves95/parking-pals
+- ✨ Currently working as a contract developer for Bridgetown Collective
 
 <!---
 pgroves95/pgroves95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
